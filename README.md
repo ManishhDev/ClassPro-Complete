@@ -174,5 +174,9 @@ This project was intended to show the timetable and attendance. but it grew and 
 ### Under the following terms:
 
 - **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+<!-- Deployment triggered: Vercel frontend hosted on Vercel with Supabase backend -->
+<!-- Website URL: class-pro-complete-frontend-git-main-manishs-projects-4b911b31.vercel.app -->
+<!-- Status: Production Deployment Active -->
 - **NonCommercial:** You may not use the material for commercial purposes.
 - **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
