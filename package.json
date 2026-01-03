@@ -25,7 +25,8 @@
     "clean": "rimraf frontend/node_modules frontend/.next backend/bin",
     "docker:build": "docker compose build",
     "docker:up": "docker compose up",
-    "docker:down": "docker compose down"
+    "docker:down": "docker compose down",
+        "postinstall": "cd frontend && bun install"
   },
   "devDependencies": {
     "@types/node": "^22.10.10",
