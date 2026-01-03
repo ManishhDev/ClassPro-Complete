@@ -25,7 +25,6 @@
     "docker:build": "docker compose build",
     "docker:up": "docker compose up",
     "docker:down": "docker compose down",
-        "postinstall": "cd frontend && bun install"
   },
   "devDependencies": {
     "@types/node": "^22.10.10",
