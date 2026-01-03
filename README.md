@@ -180,3 +180,5 @@ This project was intended to show the timetable and attendance. but it grew and 
 <!-- Status: Production Deployment Active -->
 - **NonCommercial:** You may not use the material for commercial purposes.
 - **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+<!-- Deployment fix: Removed bun.lock to resolve backend workspace dependency issue -->
